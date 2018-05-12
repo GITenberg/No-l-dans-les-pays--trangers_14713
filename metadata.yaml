@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5643'
     url: http://www.gutenberg.org/2009/agents/5643
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14713#No-l-dans-les-pays--trangers
 gutenberg_bookshelf:
 - FR Peuples et Sociétés
 - Christmas
